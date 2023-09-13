@@ -33,7 +33,7 @@ def toggle_task():
 
 window = tk.Tk()
 window.title("To-Do List")
-window.configure(bg="pink") 
+window.configure(bg="grey") 
 
 # Create an entry widget to add tasks
 entry = tk.Entry(window, width=50)
